@@ -29,7 +29,7 @@
 3、（重点）本程序使用chrome浏览器，用到的webdriver是chromedriver， 如果是其他浏览器的话，请自行下载对应的驱动器，并修改scripts文件夹中sign-in.py文件中的对应代码  
 `options = webdriver.ChromeOptions()`  
 `browser = webdriver.Chrome(chrome_options=options)`  
-4、5已经过时  
+4、如果有bug等相关问题。请联系作者。作者QQ:1229236880, 添加好友请说明来意
 5、仅用于考研复旦的朋友。本程序仅用于娱乐  
 5、修改useragent：不同的操作系统以及浏览器类型会产生不同的useragent，如何查找自己的useragent请直接百度“useragent”。  
 6、(2.25补充的bug)本程序在pycharm上完美运行， 在命令行上运行或者直接用python运行时， 请将find_score文件夹中的find_score文件夹放置在自己python所在文件夹下, Lib文件夹中的site-packages文件夹中
